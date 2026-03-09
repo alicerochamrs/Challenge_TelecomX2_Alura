@@ -58,13 +58,7 @@ Principais etapas realizadas:
 - Matplotlib, Seaborn
 - Google Colab / VSCode
 
-<br/>
 
-## ✍️ Autor
-
-Projeto desenvolvido por Mariana Fernandes como parte de um desafio de análise de dados no setor de telecomunicações.
-
-<br/>
 
 ## 📝 Licença
 
